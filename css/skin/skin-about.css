@@ -1,0 +1,22 @@
+body {
+    background-color: #d01600;
+}
+
+/* ヘッダー */
+header {
+    color: #f9f9f9;
+}
+
+/* メイン */
+.side-parts.line {
+    border-right: 2px solid #f9f9f9;
+    width: 40px;
+    height: 80vh;
+}
+
+h2 {
+    letter-spacing: -5px;
+    color: #f9f9f9;
+    font-size: 18vh;
+    font-weight:condensed; 
+}

@@ -1,8 +1,6 @@
 @charset "UTF-8";
 body {
     font-family: "Helvetica Neue", "Arial", "Hiragino Kaku Gothic Pro";
-    background-color: #f9f9f9;
-    color: #d01600;
 }
 
 a {
@@ -41,10 +39,8 @@ nav ul {
 }
 
 /* メイン */
-.side-red {
-    width: 40px;
-    height: 100vh;
-    background-color: #d01600;
+
+.side-parts {
     position: absolute;
     top: 0;
     left: 0;
@@ -52,7 +48,5 @@ nav ul {
 
 h2 {
     padding-top: 20vh;
-    font-size: 18vh;
-    font-weight: 400;
-    letter-spacing: 10px;
 }
+
