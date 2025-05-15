@@ -4,19 +4,19 @@ body {
 
 /* ヘッダー */
 header {
-    color: #d01600;
+    color: #c6301f;
 }
 
 /* メイン */
 .side-parts.box {
-    background-color: #d01600;
+    background-color: #c6301f;
     width: 40px;
     height: 100vh;
 }
 
 h2 {
     letter-spacing: 10px;
-    color: #d01600;
+    color: #c6301f;
     font-size: 18vh;
     font-weight: 400;
 }

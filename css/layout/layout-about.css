@@ -1,0 +1,21 @@
+/* メイン */
+.about {
+    padding-top: 18.75vh;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 3vh 7vh;
+}
+
+.about dt {
+    text-align: right;
+}
+
+.about dd {
+    text-align: left;
+}
+
+p {
+    text-align: center;
+    padding-top: 18.75vh;
+    padding-bottom: 8vh;
+}

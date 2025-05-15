@@ -1,5 +1,5 @@
 body {
-    background-color: #d01600;
+    background-color: #c6301f;
 }
 
 /* ヘッダー */
@@ -19,4 +19,16 @@ h2 {
     color: #f9f9f9;
     font-size: 18vh;
     font-weight:condensed; 
+}
+
+.about {
+    font-size: 3.5vh;
+    font-weight: 400;
+    letter-spacing: 3.5px;
+    color: #f9f9f9;
+}
+
+p {
+    color: #f9f9f9;
+    letter-spacing: 4px;
 }
